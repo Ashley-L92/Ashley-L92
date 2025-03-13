@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 💙
 
 <!--
 **Ashley-L92/Ashley-L92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>💙💙💙💙💙</p>
+想活得叱吒嫣紅，卻又不想太緊繃。——黃大謙〈Not That Good〉
